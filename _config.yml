@@ -15,7 +15,7 @@
 remote_theme: raviriley/agency-jekyll-theme
 
 url    : "https://stemlink.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/agency-jekyll-theme-starter" # the subpath of your site, e.g. /blog
+baseurl: "https://stemlink.github.io/" # the subpath of your site, e.g. /blog
 
 title      : STEMLink
 email      : your-email@example.com #this is also the email contact forms will go to
