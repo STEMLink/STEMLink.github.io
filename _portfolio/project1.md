@@ -11,10 +11,11 @@ caption:
 ---
 
 We have started seminar series in fields closer to ours and with the closer local community but hope to expand interms of the field and audience.
-We hope to receive any intest for those hoping to attend the seminars as well as those hoping to give seminar presentions!
+We would be happy to receive any interest from those hoping to attend the seminars as well as those hoping to give seminar presentions!
 
-# Biomedical Engineering Seminars
-## Past Events
+## Biomedical Engineering Seminars
+
+# Past Events
 
 ### November 26th 2020 - 4:30pm - 6:00 pm
 
