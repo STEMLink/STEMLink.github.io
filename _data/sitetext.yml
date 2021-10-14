@@ -17,14 +17,14 @@ en: &DEFAULT_EN
     buttonlink: "#services"
     
   about:
-    title: "About Us"
+    title: "About"
     text: 
-    body: "We formed STEMLink aiming to promoting communication between budding researchers and the public to increase understanding, interest, and participation of STEM!"
+    body: "STEMLink aims to promoting communication between budding researchers and the public to increase understanding, interest, and participation of STEM."
     section: about
     
   services:
     title: "Mission"
-    text: "Lorem ipsum"
+    text: 
     section: mission
     list:
       - title: "Link STEM researchers"
@@ -39,7 +39,7 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Projects"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: 
     section: portfolio
     closebutton: "Close Project"
 
