@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our webpage!
+    #title: Welcome to our webpage!
     text: STEMLink
     button: Tell Me More
     buttonlink: "#services"
