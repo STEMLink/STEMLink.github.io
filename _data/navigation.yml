@@ -12,11 +12,11 @@
 en: &DEFAULT_EN
   nav:
     - title: "About"
-      section: services
-    - title: "Mission"
-      section: portfolio
-    - title: "Projects"
       section: about
+    - title: "Mission"
+      section: mission
+    - title: "Projects"
+      section: projects
     - title: "Upcoming events"
       section: timeline
     - title: "Team"
