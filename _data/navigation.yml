@@ -17,8 +17,9 @@ en: &DEFAULT_EN
       section: mission
     - title: "Projects"
       section: projects
-    - title: "Upcoming events"
-      section: timeline
+      sublinks:
+      - title: FAQ
+        url: /faq.html
     - title: "Team"
       section: team
     - title: "Contact"
