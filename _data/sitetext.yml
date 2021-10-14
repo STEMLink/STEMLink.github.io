@@ -29,13 +29,13 @@ en: &DEFAULT_EN
     list:
       - title: "Link STEM researchers"
         desc: "We aim to provide a platform to link STEM researchers across the world."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        icon: fas fa-flask #find more at https://fontawesome.com/icons
       - title: "Link STEM researchers and the public"
         desc: "With a better platform linking STEM researchers, we aim to foster communication with the public, including the younger generations."
-        icon: fas fa-laptop
+        icon: fas fa-globe
       - title: "[LINK STEM and other fields of research](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "We also try to link STEM with other fields of research that intrests us**Markdown** support"
-        icon: fab fa-markdown
+        desc: "We also try to link STEM with other fields of research that interests us"
+        icon: fab fa-connectdevelop
 
   portfolio:
     title: "Projects"
