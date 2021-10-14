@@ -63,9 +63,8 @@ en: &DEFAULT_EN
 
   team:
     title: "TEAM"
-    text: "Founding members."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
-    section: team
+    text: 
+    subtext: 
     people:
       - name: "Sean Okawa"
         role: "Co-President"
