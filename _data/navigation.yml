@@ -16,10 +16,7 @@ en: &DEFAULT_EN
     - title: "Mission"
       section: mission
     - title: "Projects"
-      section: projects
-      sublinks:
-      - title: FAQ
-        url: /faq.html
+      section: portfolio
     - title: "Team"
       section: team
     - title: "Contact"
