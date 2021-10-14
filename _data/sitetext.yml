@@ -18,8 +18,8 @@ en: &DEFAULT_EN
     
   about:
     title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    text: 
+    body: "We formed STEMLink aiming to promoting communication between budding researchers and the public to increase understanding, interest, and participation of STEM!"
     section: about
     
   services:
