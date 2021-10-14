@@ -22,7 +22,7 @@ en: &DEFAULT_EN
     body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
     section: about
     
-  mission:
+  services:
     title: "Mission"
     text: "Lorem ipsum"
     section: mission
@@ -37,7 +37,7 @@ en: &DEFAULT_EN
         desc: "Your description here, full **Markdown** support"
         icon: fab fa-markdown
 
-  projects:
+  portfolio:
     title: "Projects"
     text: "Lorem ipsum dolor sit amet consectetur."
     section: projects
