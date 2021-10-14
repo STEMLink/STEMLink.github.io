@@ -110,7 +110,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
       - name: "Rina Sakata"
         role: "Co-President"
-        image: assets/img/team/2.jpg
+        image: assets/img/team/Rina.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -120,7 +120,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
       - name: "Yin Liu"
         role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/Yin.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -130,7 +130,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
       - name: "Hitoshi Matsuo"
         role: "Programmer"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/Hitoshi.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
