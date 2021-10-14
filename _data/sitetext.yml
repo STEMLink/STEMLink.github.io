@@ -35,7 +35,7 @@ en: &DEFAULT_EN
         icon: fas fa-globe
       - title: "[LINK STEM and other fields of research](https://en.wikipedia.org/wiki/Markdown)"
         desc: "We also try to link STEM with other fields of research that interests us"
-        icon: fab fa-connectdevelop
+        icon: fab fa-book
 
   portfolio:
     title: "Projects"
