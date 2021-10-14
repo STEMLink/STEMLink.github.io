@@ -22,7 +22,7 @@ en: &DEFAULT_EN
     - title: "Contact"
       section: contact
     - title: "STEMLINK x SLACK"
-      url: https://github.com/raviriley/agency-jekyll-theme/
+      url: STEMLink.github.io/legal
 en-US:
   <<: *DEFAULT_EN
 en-CA:
