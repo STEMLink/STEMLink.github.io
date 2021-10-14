@@ -7,7 +7,7 @@ alt: Shirts on a hanger
 caption:
   title: Research Seminars
   subtitle: 
-  thumbnail: assets/img/portfolio/01-thumbnail.jpg
+  thumbnail: assets/img/portfolio/presentation.jpg
 ---
 
 We have started seminar series in fields closer to ours and with the closer local community but hope to expand interms of the field and audience.
