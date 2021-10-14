@@ -1,7 +1,7 @@
 ---
 title: Research Seminars
 subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/01-full.jpg
+image: assets/img/portfolio/presentation.jpg
 alt: Shirts on a hanger
 
 caption:
