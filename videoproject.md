@@ -17,7 +17,7 @@ When we do research on the topic, we ourselves end up encountering events and hi
 
 <b> Episode 1: The discovery</b>  
 Preview:
-<img width="100%" src="assets/img/portfolio/episode1 preview.gif">
+<img width="40%" src="assets/img/portfolio/episode1 preview.gif">
 coming soon!
 
 <b> Episode 2: Protein phosphorylation beyond glycogenesis </b>  
