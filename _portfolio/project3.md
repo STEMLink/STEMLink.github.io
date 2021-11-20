@@ -2,6 +2,7 @@
 title: A platform for STEM researchers
 subtitle: Connecting reseacher to accerelate impact 
 image: assets/img/portfolio/slack.jpg
+link: SLACKplatform.html
 alt: Keep Exploring
 
 caption:
