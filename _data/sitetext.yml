@@ -19,7 +19,7 @@ en: &DEFAULT_EN
   about:
     title: "About"
     text: 
-    body: "We are team of graduate students aiming to promote communication between budding researchers and the public to increase understanding, interest, and participation of STEM."
+    body: "We are a team of graduate students aiming to promote communication between budding researchers and the public to increase understanding, interest, and participation of STEM."
     section: about
     
   services:
@@ -28,7 +28,7 @@ en: &DEFAULT_EN
     section: mission
     list:
       - title: "Link STEM researchers and the public"
-        desc: "We aim increase public understanding of STEM research and enable researchers to understand options of the public."
+        desc: "We aim to increase public understanding of STEM research and enable researchers to understand opinions of the public."
         icon: fas fa-flask
       - title: "Link STEM researchers across the world"
         desc: "We aim to provide a platform to link STEM researchers across the world to promote collaborative outreach activities."
