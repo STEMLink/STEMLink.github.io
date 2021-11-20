@@ -19,7 +19,7 @@ en: &DEFAULT_EN
   about:
     title: "About"
     text: 
-    body: "We are a team of graduate students aiming to promote communication between budding researchers and the public to increase understanding, interest, and participation of STEM."
+    body: "We are a team of graduate students aiming to promote communication between budding researchers and the public to increase understanding, interest, and participation of STEM (Science, Technology, Engineering and Mathematics) research."
     section: about
     
   services:
