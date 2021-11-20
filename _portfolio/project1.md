@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Privacy Policy
-
 ---
 title: Research Seminars
 subtitle: subtitle lorem ipsum dolor sit amet consectetur.
