@@ -16,9 +16,8 @@ When we do research on the topic, we ourselves end up encountering events and hi
 <img width="100%" src="assets/img/portfolio/national-cancer-institute-proteinphosphorylation.jpg">
 
 <b> Episode 1: The discovery</b>  
-Preview:
-<img width="40%" src="assets/img/portfolio/episode1 preview.gif">
 coming soon!
+<img width="40%" src="assets/img/portfolio/episode1 preview.gif">
 
 <b> Episode 2: Protein phosphorylation beyond glycogenesis </b>  
 
