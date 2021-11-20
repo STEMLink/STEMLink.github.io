@@ -2,7 +2,7 @@
 layout: page
 title: Video Project
 ---
-# Research Seminar Series
+# Video Project
 We are hosting research seminars to the public (we are currently focusing on high school students) to share the research we as students in STEM carry out, and what it's like to pursue an academic career in STEM.
 
 Also, as early career scientists, we also hope to gain the skills and experience to present our research audience beyond our own research field.
