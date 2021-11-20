@@ -17,26 +17,21 @@ Most of the presenters are graduate students from the University of British Colu
 
 ### November 26th 2020 - 4:30pm - 6:00 pm
 
-- Sean Okawa   
-MSc candidate in Biomedical Engineering, The Univeristy of British Columbia 
+- Sean Okawa (MSc candidate in Biomedical Engineering, The Univeristy of British Columbia)    
 Topic: Deep Mutational Scanning
 
-- Rina Sakata  
-MSc candidate in Biomedical Engineering, The Univeristy of British Columbia 
+- Rina Sakata (MSc candidate in Biomedical Engineering, The Univeristy of British Columbia)    
 Topic: Intro to Base Editors
 
-- Yin Liu  
-MSc candidate in Biomedical Engineering, The Univeristy of British Columbia  
+- Yin Liu (MSc candidate in Biomedical Engineering, The Univeristy of British Columbia)    
 Topic: Algae Blooms
 
 ### April 1st 2021 - 5:00-6:00 pm
 
-- Sofia Romero  
-PhD candidate in Biomedical Engineering, The Univeristy of British Columbia 
+- Sofia Romero (PhD candidate in Biomedical Engineering, The Univeristy of British Columbia)     
 Topic: Molecular Beekeepers
 
-- Charlotte Barclay   
-MSc candidate in Bioinformatics, The Univeristy of British Columbia
+- Charlotte Barclay  (MSc candidate in Bioinformatics, The Univeristy of British Columbia)  
 Topic: Tree of Life Project
 
 
