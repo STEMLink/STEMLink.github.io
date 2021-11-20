@@ -3,7 +3,7 @@ layout: page
 title: Privacy Policy
 ---
 # Research Seminar Series
-<img class="full-width" src="assets/img/portfolio/presentation.jpg">
+<img width="40%" src="assets/img/portfolio/presentation.jpg">
 
 
 ## Biomedical Engineering Seminars
