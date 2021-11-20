@@ -28,7 +28,7 @@ Topic: Algae Blooms
 
 ### April 1st 2021 - 5:00-6:00 pm
 
-- By Sofia Romero  
+- Sofia Romero  
 Topic: Molecular Beekeepers
 
 - Charlotte Barclay   
@@ -36,4 +36,6 @@ Topic: Tree of Life Project
 
 
 ## Upcoming events
+<img width="90%" src="assets/img/portfolio/hitoshi.png">
+
 
