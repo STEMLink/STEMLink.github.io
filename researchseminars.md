@@ -2,9 +2,8 @@
 layout: page
 title: Privacy Policy
 ---
-<div class="col-lg-12 text-center">
-	<h2 class="section-heading text-uppercase">Research Seminar Series</h2>
-</div>
+# Research Seminar Series
+
 
 ## Biomedical Engineering Seminars
 We have started seminar series in fields closer to ours and with the closer local community but hope to expand interms of the field and audience.
@@ -15,21 +14,21 @@ We would be happy to receive any interest from those hoping to attend the semina
 ### November 26th 2020 - 4:30pm - 6:00 pm
 
 - Sean Okawa
-- Topic: Deep Mutational Scanning
+Topic: Deep Mutational Scanning
 
 - Rina Sakata 
-- Intro to Base Editors
+Topic: Intro to Base Editors
 
 - Yin Liu
-- Algae Blooms
+Topic: Algae Blooms
 
 ### April 1st 2021 - 5:00-6:00 pm
 
 - By Sofia Romero 
-- Topic: Molecular Beekeepers
+Topic: Molecular Beekeepers
 
 - Charlotte Barclay
-- Topic: Tree of Life Project
+Topic: Tree of Life Project
 
 
 # Upcoming events
