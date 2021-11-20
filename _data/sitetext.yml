@@ -19,7 +19,7 @@ en: &DEFAULT_EN
   about:
     title: "About"
     text: 
-    body: "STEMLink aims to promoting communication between budding researchers and the public to increase understanding, interest, and participation of STEM."
+    body: "STEMLink aims to promote communication between budding researchers and the public to increase understanding, interest, and participation of STEM."
     section: about
     
   services:
