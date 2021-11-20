@@ -5,7 +5,7 @@ title: Privacy Policy
 # Research Seminar Series
 
 ## Biomedical Engineering Seminars
-<img width="80%" src="assets/img/portfolio/national-cancer-institute_cells.jpg">
+<img width="90%" src="assets/img/portfolio/national-cancer-institute_cells.jpg">
 
 We have started with hosting bioengineering seminar series towards local high school students in Vancouver. 
 Most of the presenters are currently graduate students from the University of British Columbia under the Biomedical Engineering Program.
