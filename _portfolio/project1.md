@@ -2,6 +2,7 @@
 title: Research Seminars
 subtitle: subtitle lorem ipsum dolor sit amet consectetur.
 image: assets/img/portfolio/presentation.jpg
+link: legal.md
 alt: Shirts on a hanger
 
 caption:
