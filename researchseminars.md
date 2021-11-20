@@ -36,6 +36,6 @@ Topic: Tree of Life Project
 
 
 ## Upcoming events
-<img width="90%" src="assets/img/portfolio/hitoshi.png">
+<img width="90%" src="assets/img/portfolio/Hitoshiposter.png">
 
 
