@@ -27,13 +27,14 @@ en: &DEFAULT_EN
     text: 
     section: mission
     list:
-      - title: "Link STEM researchers"
-        desc: "We aim to provide a platform to link STEM researchers across the world."
-        icon: fas fa-flask #find more at https://fontawesome.com/icons
       - title: "Link STEM researchers and the public"
-        desc: "With a better platform linking STEM researchers, we aim to foster communication with the public, including the younger generations."
-        icon: fas fa-globe
-      - title: "[LINK STEM and other fields of research](https://en.wikipedia.org/wiki/Markdown)"
+        desc: "We aim increase public understanding of STEM research and enable researchers to understand options of the public."
+        icon: fas fa-flask
+      - title: "Link STEM researchers across the world"
+        desc: "We aim to provide a platform to link STEM researchers across the world to promote collaborative outreach activities."
+        icon: fas fa-globe #find more at https://fontawesome.com/icons
+      - title: "LINK STEM and other fields of research"
+     # - title: "[LINK STEM and other fields of research](https://en.wikipedia.org/wiki/Markdown)"
         desc: "We also try to link STEM with other fields of research that interests us"
         icon: fas fa-book
 
