@@ -4,7 +4,7 @@ subtitle: subtitle lorem ipsum dolor sit amet consectetur.
 image: assets/img/portfolio/presentation.jpg
 link: researchseminars.html
 alt: Shirts on a hanger
-
+ 
 caption:
   title: Research Seminars
   subtitle: 
