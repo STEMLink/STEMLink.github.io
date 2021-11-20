@@ -3,14 +3,14 @@ layout: page
 title: Privacy Policy
 ---
 <div class="col-lg-12 text-center">
-	<h2 class="section-heading text-uppercase">Privacy Policy</h2>
+	<h2 class="section-heading text-uppercase">Research Seminar Series</h2>
 </div>
 
 ## Biomedical Engineering Seminars
 We have started seminar series in fields closer to ours and with the closer local community but hope to expand interms of the field and audience.
 We would be happy to receive any interest from those hoping to attend the seminars as well as those hoping to give seminar presentions!
 
-# Past Events
+## Past Events
 
 ### November 26th 2020 - 4:30pm - 6:00 pm
 
