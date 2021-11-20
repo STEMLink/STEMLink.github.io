@@ -3,12 +3,15 @@ layout: page
 title: Privacy Policy
 ---
 # Research Seminar Series
+We are hosting research seminars to the public (we are currently focusing on high school students) to share the research we as students in STEM carry out, and what it's like to pursue an academic career in STEM.
+
+Also, as early career scientists, we also hope to gain the skills and experience to present our research audience beyond our own research field.
 
 ## Biomedical Engineering Seminars
 <img width="90%" src="assets/img/portfolio/national-cancer-institute_cells.jpg">
 
 We have started with hosting bioengineering seminar series towards local high school students in Vancouver. 
-Most of the presenters are currently graduate students from the University of British Columbia under the Biomedical Engineering Program.
+Most of the presenters are graduate students from the University of British Columbia under the Biomedical Engineering Program.
 
 ## Past Events
 
