@@ -3,13 +3,12 @@ layout: page
 title: Privacy Policy
 ---
 # Research Seminar Series
+<img src="assets/img/portfolio/presentation.jpg">
 
 
 ## Biomedical Engineering Seminars
-We have started seminar series in fields closer to ours and with the closer local community but hope to expand interms of the field and audience.
-We would be happy to receive any interest from those hoping to attend the seminars as well as those hoping to give seminar presentions!
-
-<img src="assets/img/portfolio/presentation.jpg">
+We have started with hosting bioengineering seminar series towards local high school students in Vancouver. 
+Most of the presenters are currently graduate students from the University of British Columbia under the Biomedical Engineering Program.
 
 ## Past Events
 
