@@ -5,7 +5,7 @@ title: Privacy Policy
 # Research Seminar Series
 We are hosting research seminars to the public (we are currently focusing on high school students) to share the research we as students in STEM carry out, and what it's like to pursue an academic career in STEM.
 
-As early career scientists, we also hope to gain the skills and experience to present our research audience beyond our own research field.
+As early career scientists, we also hope to gain the skills and experience to present our research to an audience beyond our own fields
 
 ## Biomedical Engineering Seminars
 <img width="90%" src="assets/img/portfolio/national-cancer-institute_cells.jpg">
@@ -17,21 +17,21 @@ Most of the presenters are graduate students from the University of British Colu
 
 ### November 26th 2020 - 4:30pm - 6:00 pm
 
-- Sean Okawa (MASc candidate in Biomedical Engineering, The Univeristy of British Columbia)    
+- Sean Okawa (MASc candidate in Biomedical Engineering, The University of British Columbia)    
 Topic: Deep Mutational Scanning
 
-- Rina Sakata (MASc candidate in Biomedical Engineering, The Univeristy of British Columbia)    
+- Rina Sakata (MASc candidate in Biomedical Engineering, The University of British Columbia)    
 Topic: Intro to Base Editors
 
-- Yin Liu (MASc candidate in Biomedical Engineering, The Univeristy of British Columbia)    
+- Yin Liu (MASc candidate in Biomedical Engineering, The University of British Columbia)    
 Topic: Algae Blooms
 
 ### April 1st 2021 - 5:00-6:00 pm
 
-- Sofia Romero (PhD candidate in Biomedical Engineering, The Univeristy of British Columbia)     
+- Sofia Romero (PhD candidate in Biomedical Engineering, The University of British Columbia)     
 Topic: Molecular Beekeepers
 
-- Charlotte Barclay  (MASc candidate in Bioinformatics, The Univeristy of British Columbia)  
+- Charlotte Barclay  (MASc candidate in Bioinformatics, The University of British Columbia)  
 Topic: Tree of Life Project
 
 
