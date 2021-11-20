@@ -3,7 +3,7 @@ layout: page
 title: Privacy Policy
 ---
 # Research Seminar Series
-<img width="40%" src="assets/img/portfolio/presentation.jpg">
+<img width="70%" src="assets/img/portfolio/national-cancer-institute_cells.jpg">
 
 
 ## Biomedical Engineering Seminars
