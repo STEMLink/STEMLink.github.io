@@ -1,12 +1,12 @@
 ---
-title: Film Projects
+title: Video Projects
 subtitle: Creating videos to promote understanding of our research topics.
 image: assets/img/portfolio/film2.jpg
 link: videoproject.html
 alt: 
 
 caption:
-  title: Film Projects
+  title: Video Projects
   subtitle: 
   thumbnail: assets/img/portfolio/film2.jpg
 ---
