@@ -21,7 +21,7 @@ Most of the presenters are graduate students from the University of British Colu
 Topic: Deep Mutational Scanning
 
 - Rina Sakata (MASc candidate in Biomedical Engineering, The University of British Columbia)    
-Topic: Intro to Base Editors
+Topic: Introduction to Base Editors
 
 - Yin Liu (MASc candidate in Biomedical Engineering, The University of British Columbia)    
 Topic: Algae Blooms
