@@ -89,8 +89,19 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
+      - name: "Yeganeh Dorri Nokoorani"
+        role: "Publicity Leader"
+        image: assets/img/team/Yin.jpeg
+        affiliation: MASc Biomedical Engineering @ UBC
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
       - name: "Yin Liu"
-        role: "Lead Developer"
+        role: "Project Leader"
         image: assets/img/team/Yin.jpeg
         affiliation: MASc Biomedical Engineering @ UBC
         social:
@@ -101,7 +112,7 @@ en: &DEFAULT_EN
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Hitoshi Matsuo"
-        role: "Programmer"
+        role: "Programming Leader"
         image: assets/img/team/Hitoshi.jpeg
         affiliation: MASc Genomics @ UTokyo
         social:
