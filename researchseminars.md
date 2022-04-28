@@ -15,7 +15,7 @@ Most of the presenters are graduate students from the University of British Colu
 
 ## Past Events
 
-### November 26th 2020 - 4:30pm - 6:00 pm
+### November 26th 2020 - 4:30-6:00pm
 
 - Sean Okawa (MASc candidate in Biomedical Engineering, The University of British Columbia)    
 Topic: Deep Mutational Scanning
@@ -26,7 +26,7 @@ Topic: Introduction to Base Editors
 - Yin Liu (MASc candidate in Biomedical Engineering, The University of British Columbia)    
 Topic: Algae Blooms
 
-### April 1st 2021 - 5:00-6:00 pm
+### April 1st 2021 - 5:00-6:00pm
 
 - Sofia Romero (PhD candidate in Biomedical Engineering, The University of British Columbia)     
 Topic: Molecular Beekeepers
@@ -34,8 +34,9 @@ Topic: Molecular Beekeepers
 - Charlotte Barclay  (MASc candidate in Bioinformatics, The University of British Columbia)  
 Topic: Tree of Life Project
 
-
-## Upcoming events
+## November 29th, 2021 - 4:30-6:00pm
 <img width="90%" src="assets/img/11.29.21poster.png">
 
+## February 1st, 2022 - 4:30-6:00pm
+<img width="90%" src="assets/img/portfolio/national-cancer-institute_cells.jpg">
 
