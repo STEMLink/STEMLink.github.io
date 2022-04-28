@@ -35,13 +35,16 @@ Topic: Molecular Beekeepers
 Topic: Tree of Life Project
 
 ## November 29th, 2021 - 4:30-6:00pm PST
-<img width="90%" src="assets/img/11.29.21poster.png">
+<img width="90%" src="assets/img/11.29.21poster.png"> 
+
 
 ## February 1st, 2022 - 2:30-4:00pm CRT
-<img width="90%" src="assets/img/portfolio/UWCCR1stFeb2022_poster.png">
+<img width="90%" src="assets/img/portfolio/UWCCR1stFeb2022_poster.png"> 
+
 
 ## February 26st, 2022 - 9:00-10:30am HKT
-<img width="90%" src="assets/img/portfolio/26thFeb_poster2.png">
+<img width="90%" src="assets/img/portfolio/26thFeb_poster2.png"> 
+
 
 ## April 4th, 2021 - 4:30-6:00pm PST
 
