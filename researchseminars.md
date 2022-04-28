@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Privacy Policy
+title: Research Seminars
 ---
 # Research Seminar Series
 We are hosting research seminars to the public (we are currently focusing on high school students) to share the research we as students in STEM carry out, and what it's like to pursue an academic career in STEM.
@@ -38,5 +38,8 @@ Topic: Tree of Life Project
 <img width="90%" src="assets/img/11.29.21poster.png">
 
 ## February 1st, 2022 - 4:30-6:00pm
-<img width="90%" src="assets/img/portfolio/national-cancer-institute_cells.jpg">
+<img width="90%" src="assets/img/portfolio/UWCCR1stFeb2022_poster2.pdf">
+
+## February 26st, 2022 - 9:00-10:30am
+<img width="90%" src="assets/img/portfolio/HKMADavidLiKwokPo_26Feb.pdf">
 
