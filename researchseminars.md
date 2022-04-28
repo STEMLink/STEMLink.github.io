@@ -38,7 +38,7 @@ Topic: Tree of Life Project
 <img width="90%" src="assets/img/11.29.21poster.png">
 
 ## February 1st, 2022 - 2:30-4:00pm CRT
-<img width="90%" src="UWCCR1stFeb2022_poster.png">
+<img width="90%" src="assets/img/portfolio/UWCCR1stFeb2022_poster.png">
 
 ## February 26st, 2022 - 9:00-10:30am HKT
 <img width="90%" src="assets/img/portfolio/26thFeb_poster2.png">
