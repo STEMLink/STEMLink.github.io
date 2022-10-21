@@ -70,7 +70,7 @@ en: &DEFAULT_EN
       - name: "Sean Okawa"
         role: "Co-President"
         image: assets/img/team/Sean.jpeg
-        affiliation: PhD candidate Biomedical Engineering @ UBC
+        affiliation: PhD in Biomedical Engineering @ UBC
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -81,7 +81,7 @@ en: &DEFAULT_EN
       - name: "Rina Sakata"
         role: "Co-President"
         image: assets/img/team/Rina.jpeg
-        affiliation: MASc Biomedical Engineering @ UBC
+        affiliation: PhD in Biological Sciences @ UCambridge
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
