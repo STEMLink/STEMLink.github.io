@@ -122,9 +122,9 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-        - name: "Abhishek Gupta"
+      - name: "Abhishek Gupta"
         role: "Head of External Affairs"
-        image: assets/img/team/Hitoshi.jpeg
+        image: assets/img/team/Abhishek.jpeg
         affiliation: MASc Genomics @ UTokyo
         social:
           - url: https://twitter.com
@@ -133,7 +133,7 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-        - name: "Yuki Tanaka"
+      - name: "Yuki Tanaka"
         role: "Head of STEMLink Japan"
         image: assets/img/team/Hitoshi.jpeg
         affiliation: MASc Genomics @ UTokyo
