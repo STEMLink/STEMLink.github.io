@@ -70,7 +70,7 @@ en: &DEFAULT_EN
       - name: "Sean Okawa"
         role: "Co-President"
         image: assets/img/team/Sean.jpeg
-        affiliation: MASc Biomedical Engineering @ UBC
+        affiliation: PhD candidate Biomedical Engineering @ UBC
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -92,7 +92,7 @@ en: &DEFAULT_EN
       - name: "Yeganeh Dorri Nokoorani"
         role: "Head of Publicity"
         image: assets/img/team/Yeganeh.jpeg
-        affiliation: PhD Biomedical Engineering @ UBC
+        affiliation: PhD candidate Biomedical Engineering @ UBC
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -103,18 +103,7 @@ en: &DEFAULT_EN
       - name: "Yin Liu"
         role: "Head of STEMLink Canada"
         image: assets/img/team/Yin.jpeg
-        affiliation: MASc Biomedical Engineering @ UBC
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Yin Liu"
-        role: "Head of STEMLink Canada"
-        image: assets/img/team/Yin.jpeg
-        affiliation: MASc Biomedical Engineering @ UBC
+        affiliation: PhD candidate in Biomedical Engineering @ UBC
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -136,7 +125,7 @@ en: &DEFAULT_EN
       - name: "Abhishek Gupta"
         role: "Head of External Affairs"
         image: assets/img/team/Abhishek.jpeg
-        affiliation: MASc Genomics @ UTokyo
+        affiliation: MSc in Environmental Sciences @ UTokyo
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -147,7 +136,7 @@ en: &DEFAULT_EN
       - name: "Yuki Tanaka"
         role: "Head of STEMLink Japan"
         image: assets/img/team/Hitoshi.jpeg
-        affiliation: MASc Genomics @ UTokyo
+        affiliation: MASc Environmental Sciences @ UTokyo
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
