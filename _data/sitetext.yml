@@ -90,7 +90,7 @@ en: &DEFAULT_EN
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Yeganeh Dorri Nokoorani"
-        role: "Publicity Leader"
+        role: "Head of Publicity"
         image: assets/img/team/Yeganeh.jpeg
         affiliation: PhD Biomedical Engineering @ UBC
         social:
@@ -101,7 +101,7 @@ en: &DEFAULT_EN
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Yin Liu"
-        role: "Project Leader"
+        role: "Head of STEMLink Canada"
         image: assets/img/team/Yin.jpeg
         affiliation: MASc Biomedical Engineering @ UBC
         social:
@@ -112,7 +112,29 @@ en: &DEFAULT_EN
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Hitoshi Matsuo"
-        role: "Programming Leader"
+        role: "Lead Programmer"
+        image: assets/img/team/Hitoshi.jpeg
+        affiliation: MASc Genomics @ UTokyo
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+        - name: "Abhishek Gupta"
+        role: "Head of External Affairs"
+        image: assets/img/team/Hitoshi.jpeg
+        affiliation: MASc Genomics @ UTokyo
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+        - name: "Yuki Tanaka"
+        role: "Head of STEMLink Japan"
         image: assets/img/team/Hitoshi.jpeg
         affiliation: MASc Genomics @ UTokyo
         social:
