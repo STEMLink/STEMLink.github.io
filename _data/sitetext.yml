@@ -114,7 +114,7 @@ en: &DEFAULT_EN
       - name: "Hitoshi Matsuo"
         role: "Lead Programmer"
         image: assets/img/team/Hitoshi.jpeg
-        affiliation: MASc Genomics @ UTokyo
+        affiliation: PhD candidate in Cancer Immunology @ DKFZ Heidelberg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -136,7 +136,7 @@ en: &DEFAULT_EN
       - name: "Yuki Tanaka"
         role: "Head of STEMLink Japan"
         image: assets/img/team/Hitoshi.jpeg
-        affiliation: MASc Environmental Sciences @ UTokyo
+        affiliation: PhD candidate in Environmental Sciences @ UTokyo
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
