@@ -135,7 +135,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
       - name: "Yuki Tanaka"
         role: "Head of STEMLink Japan"
-        image: assets/img/team/Yuki
+        image: assets/img/team/Abhishek.jpeg
         affiliation: PhD candidate in Environmental Sciences @ UTokyo
         social:
           - url: https://twitter.com
