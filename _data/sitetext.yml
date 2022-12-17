@@ -14,7 +14,7 @@ en: &DEFAULT_EN
     #title: Welcome to our webpage!
     text: STEMLink
     button: Join  Us Now!
-    buttonlink: "#services"
+    buttonlink: "https://forms.gle/E2aW3vaEhJJbXGJD7"
     
   about:
     title: "About"
